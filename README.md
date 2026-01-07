@@ -39,6 +39,8 @@ Sample Superstore Dataset (Kaggle)
 
 ## Visualizations
 - `customer_segments.png` – Scatter plot showing customer clusters based on sales and quantity.
+- `discount_distribution.png` – Histogram showing the distribution of discount values across orders. The visualization indicates that most orders receive low or no discounts, while higher discount levels are used less frequently. This suggests that discounts are applied selectively, likely to stimulate demand or clear inventory.
+- `sales_distribution.png` – Histogram showing the distribution of sales values across orders. The distribution is right-skewed, indicating that most orders have low sales amounts, while a small number of orders contribute to very high sales values. This suggests that a few large transactions drive overall revenue.
 
 ## Business Recommendations
 - Focus retention and loyalty programs on high-value customers.
